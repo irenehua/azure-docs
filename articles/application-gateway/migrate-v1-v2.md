@@ -18,7 +18,7 @@ There are two stages in a migration:
 1. Migrate the configuration
 2. Migrate the client traffic
 
-This article covers configuration migration. Client traffic migration varies depending on your specific environment. However, some high-level, general recommendations [are provided](#migrate-client-traffic).
+This article covers configuration migration. Client traffic migration varies depending on your specific environment. However, some high-level, general recommendations [are provided](#migrate-client-traffi c).
 
 ## Migration overview
 
